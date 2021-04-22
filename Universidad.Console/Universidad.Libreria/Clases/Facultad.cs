@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Universidad.Libreria
+namespace Universidad.Libreria.Clases
 {
-    public class Class1
+    class Facultad
     {
     }
 }
